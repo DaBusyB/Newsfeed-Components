@@ -1,6 +1,6 @@
 // Because classes are not hoised you will need to start your code at the bottom of the page.  Look for the comment "START HERE"
 
-class Article {
+class Article { 
   constructor(domElement) {
     // assign this.domElement to the passed in domElement
     this.domElement;
